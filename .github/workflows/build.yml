@@ -13,7 +13,7 @@ jobs:
       - name: Install host deps
         run: |
           sudo apt-get update
-          sudo apt-get install -y make curl libicu-dev clang lld
+          sudo apt-get install -y make curl libicu-dev libicu74 clang lld
 
       - name: Install libssl1.1 (PkgTool.Core is .NET Core 3.1 and needs libssl1.1)
         run: |
