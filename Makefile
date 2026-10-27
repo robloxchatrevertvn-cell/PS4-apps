@@ -4,10 +4,10 @@
 # ============================================================================
 
 # ---- Package identity (fixed) ----
-TITLE       := ShadCube4
+TITLE       := PS4ImageViewer
 VERSION     := 01.00
-TITLE_ID    := SHAD00004
-CONTENT_ID  := IV0000-SHAD00004_00-SHADCUBE40000000
+TITLE_ID    := PS4IMG001
+CONTENT_ID  := IV0000-PS4IMG001_00-PS4IMAGEVIEWER00
 
 EXTRAFLAGS  :=
 
